@@ -1,0 +1,27 @@
+.carrossel{
+	margin-top: 10px;
+
+}
+
+.quem-somos {
+	margin-top: 100px;
+	text-align: center;
+	margin-bottom: 40px;
+}
+
+.quem-somos p {
+	margin-top: 30px;
+	text-decoration: justify;
+}
+
+.Contato{
+	margin-top: 100px;
+	margin-bottom: 40px;
+}
+
+.page-footer{
+	margin-top: 80px;
+	background: #f1c40f;
+
+}
+
